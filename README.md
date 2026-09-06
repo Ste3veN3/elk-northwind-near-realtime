@@ -14,8 +14,6 @@ Diseñar e implementar un flujo de ingesta con el stack ELK (Elasticsearch, Logs
 
 Cada fuente envía sus datos a Logstash, que los transforma (parseo, limpieza de campos, conversión de fechas) y los indexa en Elasticsearch. Kibana consulta Elasticsearch para construir el dashboard final.
 
-> Coloca la imagen del diagrama en `docs/diagrama_arquitectura.png` para que se vea en este README.
-
 ## Fuentes de datos
 
 | Fuente | Tabla / colección | Mecanismo de ingesta | Tipo de flujo | Índice en Elasticsearch |
