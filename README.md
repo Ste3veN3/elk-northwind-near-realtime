@@ -89,4 +89,4 @@ Ver captura en `docs/Dashboard_Taller_2.png` y el detalle completo en `docs/Info
 
 ## Créditos
 
-Material base del taller proporcionado por el profesor Juan Pablo Zaldumbide (MSDS 6012, USFQ). Solución, adaptación al dataset Northwind e implementación de las 4 fuentes por Steeven Quezada.
+Material base del taller proporcionado por el profesor Juan Pablo Zaldumbide (MSDS 6012, USFQ). Solución, adaptación al dataset Northwind e implementación de las 4 fuentes por Steeven Quezada y Máximo Pinta
